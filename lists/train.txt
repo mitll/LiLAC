@@ -1,0 +1,91 @@
+tgt_author 1343214314226285575
+small_corpus/1381091.xml.txt
+small_corpus/1416321.xml.txt
+small_corpus/1364156.xml.txt
+small_corpus/1401588.xml.txt
+small_corpus/1410052.xml.txt
+small_corpus/1361645.xml.txt
+small_corpus/1380269.xml.txt
+small_corpus/1478648.xml.txt
+small_corpus/1468567.xml.txt
+small_corpus/1544320.xml.txt
+tgt_author 4057128824502422537
+small_corpus/1445860.xml.txt
+small_corpus/1441719.xml.txt
+small_corpus/1438171.xml.txt
+small_corpus/1378917.xml.txt
+small_corpus/1460611.xml.txt
+small_corpus/1529442.xml.txt
+small_corpus/1499223.xml.txt
+small_corpus/1506339.xml.txt
+small_corpus/1493047.xml.txt
+tgt_author 2831873341547401232
+small_corpus/1448773.xml.txt
+small_corpus/1433320.xml.txt
+small_corpus/1509375.xml.txt
+small_corpus/1509516.xml.txt
+small_corpus/1495205.xml.txt
+small_corpus/1539430.xml.txt
+small_corpus/1543141.xml.txt
+tgt_author 6111253575712962584
+small_corpus/1420940.xml.txt
+small_corpus/1440250.xml.txt
+small_corpus/1363608.xml.txt
+small_corpus/1392250.xml.txt
+small_corpus/1419915.xml.txt
+small_corpus/1366116.xml.txt
+small_corpus/1446278.xml.txt
+small_corpus/1427714.xml.txt
+small_corpus/1500949.xml.txt
+small_corpus/1476523.xml.txt
+tgt_author 3284697861558562139
+small_corpus/1492868.xml.txt
+small_corpus/1511262.xml.txt
+small_corpus/1513150.xml.txt
+small_corpus/1518270.xml.txt
+small_corpus/1501155.xml.txt
+small_corpus/1488611.xml.txt
+small_corpus/1513014.xml.txt
+small_corpus/1490602.xml.txt
+small_corpus/1511430.xml.txt
+small_corpus/1534487.xml.txt
+tgt_author -1210048989878492837
+small_corpus/1379360.xml.txt
+small_corpus/1363749.xml.txt
+small_corpus/1438479.xml.txt
+small_corpus/1387008.xml.txt
+small_corpus/1356256.xml.txt
+small_corpus/1483387.xml.txt
+small_corpus/1498009.xml.txt
+small_corpus/1525838.xml.txt
+small_corpus/1453103.xml.txt
+small_corpus/1515848.xml.txt
+tgt_author -2517799674969759700
+small_corpus/1388303.xml.txt
+small_corpus/1378822.xml.txt
+small_corpus/1447345.xml.txt
+small_corpus/1365163.xml.txt
+small_corpus/1460050.xml.txt
+small_corpus/1511345.xml.txt
+small_corpus/1513108.xml.txt
+tgt_author 2243491259821310511
+small_corpus/1411546.xml.txt
+small_corpus/1362640.xml.txt
+small_corpus/1450642.xml.txt
+small_corpus/1486218.xml.txt
+small_corpus/1455764.xml.txt
+small_corpus/1480471.xml.txt
+tgt_author -9041539305585248720
+small_corpus/1355825.xml.txt
+small_corpus/1380146.xml.txt
+small_corpus/1430338.xml.txt
+small_corpus/1486878.xml.txt
+small_corpus/1459110.xml.txt
+small_corpus/1491571.xml.txt
+small_corpus/1516649.xml.txt
+tgt_author 6284596673216478268
+small_corpus/1400760.xml.txt
+small_corpus/1362521.xml.txt
+small_corpus/1418316.xml.txt
+small_corpus/1489662.xml.txt
+small_corpus/1517487.xml.txt
