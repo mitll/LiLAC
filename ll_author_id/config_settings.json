@@ -1,0 +1,5 @@
+{"filter_counts": {}, 
+ "text_norm": {"remove_twitter": true, "remove_nonsentenial": true, "remove_markup": true, "utf8_to_ascii": true},
+ "counts": {"combine_same_user_counts": false, "count_separator": "|", "format": ".json.gz"}, 
+ "model": {"method":"sklearn"} 
+}

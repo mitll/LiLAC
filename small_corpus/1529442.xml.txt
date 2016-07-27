@@ -1,0 +1,69 @@
+MIKE CHIN'S eureka moment came in an Ikea store, on a spring day in 2002.
+
+Mr. Chin, a technology writer in Vancouver, British Columbia, had just gotten a tiny motherboard from a Taiwanese chip maker, and he had been growling that he could not find a similarly small case so that he could build the computer he had promised to a friend's daughter.
+
+Then his eyes fell on a blue plastic Ikea breadbox -- the ''perfect marriage of cheap modern art, chintziness and utility,'' he said.
+
+The fully functional breadbox PC that he then built and described on the Web was among the first to spring from an idea that has become a raging obsession in a far-flung community of electronic do-it-yourselfers: the stealth computer.
+
+Across Europe, the United States and the Far East, hobbyists have been stuffing the works of personal computers into toasters, humidors, biscuit tins, lampshades, even a plush E.T. doll.
+
+''It's tiny, it's wonderful, it's all integrated, it's extremely low power, and it fits almost anywhere,'' said Mr. Chin of the mini-ITX motherboard at the heart of his breadbox computer, which measures about 10 inches by 14 inches by 6 inches.
+
+But the mini-ITX is not just an object of obsession. The stealth builders are the extreme flank of an assault against the status quo by the originator of the mini-ITX boards, Via Technologies. Via, which is based in Taiwan, wants to make the little computer the next big thing.
+
+''We were surprised it was the enthusiasts who were interested,'' Richard Brown, the vice president for marketing at Via, said when the company introduced the tiny motherboard idea in early 2002. Today, the concept has already spread beyond hobbyists; a few stylish new PC's using Via's tiny boards have reached the consumer market.
+
+The mini-ITX, which often includes the central processing unit, or C.P.U., as well as audio and graphics circuitry and other built-in components, measures less than seven inches on each side, about half the size of a typical board. The Via boards include relatively slow C.P.U.'s, which in terms of raw computing power are ''a long way behind the Pentium 4 and top-of-the-line Athlon,'' Mr. Brown said.
+
+But with sales of personal computers lagging, Via and others in the industry have been pushing the idea of the ''second PC'' -- an inexpensive, quiet device that can take the pressure off the family computer, perhaps even breaking out of the home office and moving into the living room.
+
+Such a computer would make a virtue of Via's competitive disadvantage. Although other manufacturers have begun to offer mini-ITX boards that accept its competitors' C.P.U.'s, Via so far dominates the field. With fewer transistors and slower speed, the Via generates very little heat and therefore does not necessarily need a noisy fan to keep it cool. ''At 100 percent of what it can possibly do, it draws 23 watts of power, where my big PC draws 150,'' said Dave Helander, the computer manager for the Rochester Housing Authority, who has built a computer inside a plastic gasoline can. Mr. Helander's creation and others are featured at the Web site mini-itx.com.
+
+For the little computer to catch on, some significant changes in the direction of computer marketing will be required -- not just away from the competition for faster processing that has driven sales for years, but also toward a new design paradigm.
+
+Computers are typically either beige or black and businesslike, or fancied up by gaming enthusiasts with lights and picture windows that show off the esoteric beauty of circuitry. Either way, they are mostly air; the components occupy little space inside.
+
+Mini-ITX boards contain everything a computer needs on one board, but they sacrifice flexibility. You can't add more than one video card or sound card, and with a Via, you can't swap out the processor, which is soldered to the board.
+
+But the boards are inexpensive, selling for about $100 to $200, and they invite miniaturization. Mr. Helander's most seditious inspiration was to lop what seems like an impossibly small corner off a beige computer case with a hacksaw, and stuff a full-featured computer into it. Next to his ''Bantam PC,'' the standard box seems outlandishly outdated, like the fins on a 1959 Chrysler.
+
+The first mini-ITX computers to grab the attention of the enthusiast community reflected the gaming esthetic. The Space Case, a computer enclosed in a Plexiglas cylinder, featured the circuitry prominently. When Ewan Wilcocks posted pictures at the mini-ITX Web site he runs from his London apartment, influential techies at slashdot.org took notice.
+
+''Site activity went up after that, and people began sending in projects,'' he wrote in an e-mail message. He now features dozens of ''mad'' computer projects, and rejects dozens more. The mini-ITX Web site is viewed 100,000 times a day, he said.
+
+''Small form-factor PC's are definitely an up-and-coming thing,'' Mr. Wilcocks said in an interview.
+
+''It's a little bit like the hot rods,'' said Henry Minsky, who works for an Internet company in Cambridge, Mass., and has built a mini-ITX computer inside an old teletype machine. With cars, he said, the technology has advanced to the point that most people can't do their own customizing. ''For people who want to tinker -- take it apart and put it back together -- what choices do they have?'' he said.
+
+And like the hot rodders who built the little deuce coupe by marrying a new Oldsmobile V-8 engine with a chassis pulled from the weeds, the builders of mini-ITX computers often use vintage machinery as a shell. Some of the projects featured by Mr. Wilcocks are housed in old Commodore and Atari computer cases.
+
+As the projects have evolved over the last year, the geek esthetic has given way to stealth, often with tongue in cheek. Greg Sowell, a network administrator for Universal Computer Systems in Waco, Tex., built a computer housed in a cabin made of Lincoln Logs. Daniel Hansson of Sweden built one in an old Telefunken tube radio; only when a CD pops out of an inconspicuous slot in its wooden case does it become apparent that the box is anything other than a vintage radio.
+
+The competition at the mini-ITX Web site is lively. Pictures document every step of the projects, highlighting technical innovation and obsessive detail. Mr. Helander calls it a ''desperate cry for attention,'' but he and others also see a method to the madness: the focus on the outside of a computer has already helped pave the way for some sleek new consumer products.
+
+Mr. Wilcocks said: ''I don't think everyone wants a computer in the shape of an E.T. doll; maybe they account for 1 percent of mini-ITX sales. But it shows that you can be versatile and have any shape of case. What the small-form-factor companies are doing is putting a bit more thought into the design of their cases.''
+
+Mr. Brown of Via said: ''The hobbyists are actually the ones leading the way. They're very serious mechanical and technical projects.''
+
+In addition to his log cabin PC, Mr. Sowell has built a computer inside a sewing box for a relative who didn't want an intrusive beige appliance on her desk. Jamie Burke, a builder of serious gaming computers, made the transition with a mini-ITX board hidden in a small humidor that sits beside his flat-screen television.
+
+''I could build a big box, but when people walk into your living room, they don't want to see that big box,'' said Mr. Burke, 26, of Boise, Idaho.
+
+Mr. Brown of Via said the company had staged some competitions at which it asked enthusiasts, ''What would you do with this board?''
+
+''A lot of the ideas were predominantly for the living room,'' he said. ''What I heard was, 'Well, the only way I'm going to get a PC past my wife into the living room is if it's small and doesn't make much noise.' And we as an industry haven't done a particularly good job of making cases look good.''
+
+That may be changing.
+
+''It doesn't look like a PC and it doesn't sound like a PC,'' said David Thompson of the new generation of sleek multimedia computers he hopes to pioneer. An entrepreneur in Manchester, England, Mr. Thompson is selling an appliance that he calls the Tranquil PC and describes as ''very much a chic design, a high-class, hi-fi design.''
+
+The computers from Mr. Thompson and from a European company called Hush Technologies both use the Via processors, and both dissipate heat with aluminum fins on the outside of the case, obviating a noisy fan and creating a design opportunity.
+
+Stuart Brown, Richard Brown's brother and the marketing director for Hush, envisions his company's elegant product, which was introduced in June, not only on the shelf with the stereo, but ''on the managing director's desk, or in the architect's design studio.''
+
+''The whole idea of the computer as an appliance, as a stereo component, is only just coming in,'' said Mr. Chin, who runs the Web site silentpcreview.com. Via recently introduced a design for an even smaller motherboard, the nano-ITX, and Mr. Chin believes that the revolution his breadbox helped start is just beginning.
+
+''I don't think it's going away,'' he said. ''It's here to stay.''
+
+Correction:  October 25, 2003, Saturday  An article in Circuits on Thursday about hobbyists who put the works of personal computers into tiny objects misstated the surname of a Swede who built a PC into a tube-radio case. He is Daniel Larsson, not Hansson.

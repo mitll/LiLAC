@@ -1,0 +1,51 @@
+THE 21st century hasn't brought us flying cars. But it has made the nonflying kind a lot easier to buy.
+
+Back in 1986, when I purchased my first Honda Civic, car shopping meant going from dealer to dealer to dealer, taking test drives and hearing sales pitches. The process was time-consuming and unpleasant. It required a lot of driving around, and to get a price, you had to be willing to dicker for hours.
+
+Car buyers no longer have to go through all that. When I replaced my old Civic with a 2003 model, I test drove a couple of cars and, when I was ready to buy, filled out an online form. Within 30 minutes, a dealer e-mailed me an excellent offer. Two hours later, I had a new car.
+
+In the early days of e-commerce, six or seven years ago, car sales were the pundits' favorite caveat. Customers will always want to kick the tires, they said, so the Internet is no place for selling cars.
+
+How wrong they were.
+
+''By now it's an incredibly widely used medium for buying cars,'' said Florian Zettelmeyer, an economist at the Haas School of Business at the University of California at Berkeley.
+
+Car buyers still kick the tires, but they increasingly get price offers from Internet referral services like Autobytel, the market leader, and CarsDirect, the site I used.
+
+These services don't actually sell cars. Rather, they contract with dealers who agree to follow certain rules. Only about one out of five dealers has a referral-service contract, which encourages lots of sales at relatively low prices. When a car shopper fills out an online form, the referral service forwards the information to its local affiliates, which respond with price offers.
+
+Consumers who use Internet referral services pay about 2 percent less for their cars than people who shop the old-fashioned way, according to research by Professor Zettelmeyer, Fiona M. Scott Morton of the Yale School of Management and Jorge Silva-Risso of the Anderson Graduate School of Management at the University of California at Los Angeles.
+
+They found about the same savings in studies using different data from different years, 1999 and 2002, in which different proportions of car shoppers used the services, about 12 percent in 1999 versus 58 percent in 2002.
+
+But maybe the savings are an illusion. Maybe those smart shoppers are the same hard bargainers who would have gotten a good price the old-fashioned way.
+
+Using data from J. D. Power & Associates and Autobytel, the economists tracked about 700,000 car sales in 1999 and early 2000. (Their paper is available at http://papers.ssrn.com/abstractid=288601.) Comparing equivalent buyers who shopped online and offline, they found the exact opposite of what they had suspected.
+
+''The people who use this medium,'' Professor Zettelmeyer said, ''are those who in the offline world would have done worse than average.'' Internet referral services are, in effect, transferring money from car dealers to the consumers who used to pay the most.
+
+In that case, online services might lower prices for women or traditionally disadvantaged ethnic groups. In a second paper, recently published in the journal Quantitative Marketing and Economics, the researchers first used their huge data set to separate race and gender from other demographic factors, like education and income. Since it is harder to shop if you don't already own a car, they also factored in whether a buyer traded in an old car.
+
+These variables, they found, account for about two-thirds of the 2 to 2.3 percent premium that blacks and Hispanics pay for cars. (Gender is harder to separate, because women tend to shop for cars with men.)
+
+Using an Internet referral service not only eliminates the remaining markup -- 0.8 percent for blacks, 0.6 percent for Hispanics -- but wipes out the differences from education, income and search costs.
+
+On the Internet, ''everybody paid the white male price,'' Professor Zettelmeyer said. ''Suddenly it became totally irrelevant what your race or gender or income or education was.''
+
+In their most recent work, which includes a survey of car buyers, the economists try to determine how Internet shopping lowers prices. They find two effects. Using the Internet makes consumers better informed and, hence, better able to bargain -- the information effect. And the referral services use their own power to make sure dealers keep prices low -- the contract effect.
+
+Looking at all car buyers, the economists find that those who use Internet referral services save about 1.5 percent on the cars they buy. But that average hides the full story. The two different effects have different results, depending on the car buyers' personalities.
+
+The information effect saves about 1.7 percent, but only for people like me who don't like bargaining. Skillful bargainers, it turns out, can get good deals no matter how little information they have. The contract effect, by contrast, helps all consumers, saving about 0.8 percent.
+
+State franchise laws protect car dealers from the full implications of Internet shopping. Carmakers have to treat all dealers the same -- they can't reward low prices the way referral services can -- and they can't simply replace dealers with test-drive centers. In the long run, that will have to change, Professor Scott Morton suggested.
+
+If the only value car dealers provide comes from a test drive and some paperwork, they don't have much reason to exist. The Internet already offers better information on insurance and financing, and cars' increasing reliability makes repair services less important.
+
+''If it's totally obvious to everyone that the dealer's not doing anything, then I think we will get eventual weakening of those protections,'' she said. In the meantime, more and more car shoppers will flock to the Internet, if only to avoid spending hours in the dealership.
+
+''An element that we sometimes underestimate, which doesn't show up anywhere in the G.D.P., is the sheer amount of disutility that consumers derive'' from dickering with car salesmen, Professor Zettelmeyer said.
+
+Internet car shopping saves not just money. ''A lot of people just dread this process,'' he said. ''To the degree that we can reduce the dread factor, that is providing real value.''
+
+Economic Scene Virginia Postrel is the author of ''The Future and Its Enemies.'' Her book on the increasing economic and cultural importance of aesthetics will be published in September by HarperCollins. E-mail: vpostrel@dynamist.com.

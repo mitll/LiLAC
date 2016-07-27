@@ -1,0 +1,45 @@
+LIKE every author I know, I'm obsessed with the Amazon ranking of my new book. Several times a day, I check the number on the book's Amazon.com page to see how its sales compare with sales of every other book. Best-seller lists rank just the top 10 or 20 books. Amazon ranks more than two million -- every book it sells.
+
+Authors love the rankings at Amazon and its competitor, BarnesandNoble.com (also known as BN.com), because they give us real-time information on how well a book is selling. Aside from satisfying anxious curiosity, the rankings provide immediate feedback on the effect of reviews and media appearances.
+
+But the rankings aren't just important to authors. With some clever tweaking, they let economists answer some basic questions about online competition.
+
+''Does the Internet make things very competitive?'' asks Austan Goolsbee, an economist at the University of Chicago Graduate School of Business. ''Or does the Internet make the sellers of things able to gather information and charge different prices'' to different customers, depending on their willingness to pay?
+
+To put it a different way, does every product become a commodity online, driving all prices down so far that they just cover costs? Or can online retailers find ways to make significant sustainable profits? In theory, things could go either way.
+
+Testing the question empirically means doing more than checking the prices listed on Web sites. Just because an online retailer offers a product at a particular price doesn't mean anyone's buying. Researchers need to know how much is actually selling at those prices. And that information is hard to come by.
+
+Enter the Amazon and BN.com ratings. By measuring sales for exactly the same goods at competing sites, the book rankings provide the missing information.
+
+In an article in the June issue of Quantitative Marketing and Economics, Professor Goolsbee and Judith Chevalier, an economist at the Yale School of Management, figured out how to turn the book rankings into sales figures. They then recorded prices and sales for more than 18,000 titles at three points in 2001, when Amazon tested various pricing strategies and BN.com responded. With that information, they examine how price changes at one site affect sales by both that retailer and its competitor. (The paper can be downloaded from http://gsbadg.uchicago.edu/vitae.htm.)
+
+Unfortunately for curious authors, the specific calculation used to translate rankings into sales is obsolete, because online book sales have grown substantially since 2001. All the economists can say is that sales approximately double every time the rank is cut in half.
+
+''A book at rank 2,000 sells a bit less than half the books as a book at 1,000,'' Professor Goolsbee says.
+
+That means it's relatively easy to climb the low ranks. A book selling two copies a day at the time of the study was ranked at 14,468. The economists bought six copies in a 10-minute period and drove the rank to 2,854.
+
+It's much harder, however, for top-selling books to move up, since already-high sales must double for a book to go from No. 8 to No. 4, double again to go to No. 2, and double once again to reach the top slot.
+
+Not surprisingly, the researchers found that higher prices mean fewer sales. But the effects are notably different at the two sites. Both sites lose customers when prices rise, but Barnes & Noble loses a lot more.
+
+A 1 percent price increase at BN.com pushes sales down 4 percent, making price rises a bad idea. By contrast, the same increase at Amazon reduces sales by only 0.5 percent -- a net revenue gain.
+
+That's not exactly what economists expected. ''We economists decided in about 1998 that the whole world was wrong about the Internet, and the Internet is not about companies making money,'' Professor Chevalier says.
+
+Instead, the Internet would unleash ''incredibly vigorous competition to a point that the law of one price is going to hold,'' she said. ''You're not going to see a penny of difference in prices across different sites because everybody can check.''
+
+The Internet has indeed spurred competition. But it hasn't led to uniformly low prices. In the book business, at least, Amazon has demonstrated that it's possible to build a large base of customers who won't bolt to the competition if you raise prices a little bit. (For the record, I own 100 shares of Amazon stock, which I purchased about two years ago and have no immediate plans to sell.)
+
+Barnes & Noble, by contrast, caters to discount hunters with little loyalty to its particular service. (Customers at smaller sites are, if anything, even more price-sensitive.)
+
+In fact, BN.com picks up just about all the customers Amazon loses when it raises prices. By contrast, Amazon gets only a small number of the customers BN.com loses. They either go to an even cheaper retailer or perhaps don't buy at all.
+
+''Raising prices by 1 percent at BN.com reduces sales about 4 percent but increases sales at Amazon.com by only about 0.2 percent,'' the economists write. ''Many of the lost customers from BN.com evidently do not just go buy the book from Amazon.com.''
+
+For traditional independent bookstores, this is all bad news. ''It just looks like it's a very competitive retail business,'' Professor Goolsbee says, ''and it doesn't bode that well for the bookstores,'' since most of them have a lot less pricing clout than Barnes & Noble.
+
+''Except for Amazon, the online bookselling business is extremely competitive,'' he says. ''If they mess up the pricing they're just going to die.''
+
+Economic Scene Virginia Postrel is the author of ''The Substance of Style: How the Rise of Aesthetic Value Is Remaking Commerce, Culture and Consciousness,'' published by HarperCollins. E-mail: vpostrel@dynamist.com.

@@ -1,0 +1,45 @@
+THE American Economic Association begins its annual meetings tomorrow in Atlanta. While most people seem to think of economics as a field that studies the stock market and government policy, the three-day agenda demonstrates a much wider range of scholarly questions.
+
+The research to be presented includes ''The Economics of Copyright Piracy,'' ''Bleak Expectations: The Role of Pessimism in Addiction,'' ''Counterfeit Goods and Income Inequality'' and ''Is Teen Motherhood Rational?''
+
+One panel will examine how and why different sorts of contracts govern different business structures, from owner-operator trucks in the United States to maritime trade in 14th-century Venetian Crete. Economic historians will explore the ''economic performance of civilizations,'' from East Asia to the Middle East. And those are just some of the sessions scheduled for 8 on the first morning.
+
+Clearly, there is more to economics than interest rates and tax policy, a point this column often tries to illustrate.
+
+But many of the field's most useful insights won't make it onto the association's panels. The conference, after all, is devoted to new scholarly research: tricky empirical questions and unsolved theoretical puzzles. Economists don't get together to tell one another what they already know.
+
+''The economic way of thinking,'' as the late Paul Heyne titled his popular introductory textbook, includes the analytical tools that economists take for granted among themselves and try to teach their students. Knowing these basic concepts could keep a lot of people from making economic mistakes.
+
+Consider a recent statement by Stephen Rubin, publisher of the Doubleday Broadway group at the Random House division of Bertelsmann. Interviewed for an article about whether book prices are too high, he told a reporter for The New York Times: ''I am just convinced that there is no difference between $22 and $23. Let's face it, price is not a factor if it is a book that you really want.''
+
+In economic terms, Mr. Rubin was saying that he believes that the demand for books is ''highly inelastic,'' maybe even zero. In plain English, that means that people won't respond to price cuts. ''Price is not a factor.'' Publishers will sell the same number of books, regardless of the price.
+
+Experience suggests this claim isn't true. Books, like most products, do sell better at lower prices.
+
+The reason is a familiar one to economic thinking. Although each particular title is unique, there are a lot of substitutes -- another basic economic concept -- for books. Instead of buying a book, a customer might go to a movie, buy magazines, converse with friends, attend lectures, watch television or go hiking. Or, deterred by the high price, the potential book buyer might borrow a copy from the library or from a friend. The more substitutes there are for a good, the more price-sensitive customers are likely to be.
+
+Of course, Mr. Rubin is undoubtedly right about some customers. My parents are going to buy my next book, whether it's priced at $25 or $30. They'd probably pay $50 or $100. But if the price is too high, even proud parents are going to cut back on the number of books they buy as gifts. And the number of such devoted fans is rather limited.
+
+People who love their products tend to underestimate how many tepid or wavering customers there are at a given price. They lose sales by thinking everyone will be as enthusiastic about the product as they are themselves and that potential customers will therefore be oblivious to a high price.
+
+Hence the value of another economic concept: thinking on the margin. The question isn't how much the most enthusiastic customer is willing to pay. To that person, the difference between $22 and $23 may not matter at all.
+
+But there are other people who would buy a book at $22 who wouldn't pay $23, or who would pay $19 but not $20. Whatever the price, there will always be incremental customers who would buy at that price but not a penny higher. That's why deciding how much to charge is the same as deciding how many units to sell. (These calculations are, of course, best estimates, subject to uncertainty about exactly how the market will respond.)
+
+Getting the revenue side of the equation right is tricky enough, but many business executives also have trouble weighing costs. In economic terms, every cost must be calculated relative to a particular decision.
+
+Consider the cost of printing an additional copy of a book. Managers often fall prey to the mistake of adding up every expense associated with the book, including overhead like rent and editors' salaries, and then dividing by the number of copies. (This mistake is by no means unique to publishing.)
+
+But the rent will be the same, regardless of whether the copy is printed. So will the editor's salary. So will the costs of proofreading and typesetting, which have already been incurred.
+
+These costs are important if the publisher is deciding whether to stay in business or perhaps whether to publish a certain title or how many titles to publish. But they have no bearing on the question of whether printing another copy of a given, already created book is a profitable thing to do.
+
+The only costs that matter to this decision are those that wouldn't be incurred unless the publisher added another copy to the press run -- the costs of printing and distribution. This is what economists mean by ''marginal cost.''
+
+If those marginal costs are less than the revenue the publisher can expect to get from that last copy, then increasing the run makes sense.
+
+Including overhead costs in the decision guarantees that too few copies will be printed.
+
+That not only lowers profits. It annoys notoriously cranky authors. So let's make a New Year's resolution to start thinking like economists -- at least on the margin.
+
+Economic Scene  Correction:  January 5, 2002, Saturday  Because of an editing error, a front-page article on Dec. 16 about the rising prices of books omitted necessary words in a comment from Stephen Rubin, publisher of the Doubleday Broadway group at the Random House division of Bertelsmann. The error was repeated in the Economic Scene column on Thursday. Mr. Rubin's quotation, with the omitted passage shown in brackets, was: ''I am just convinced that there is no difference between $22 and $23. Let's face it[, if you want a book in translation from a Czech writer, you are going to buy the book] -- price is not a factor if it is a book that you really want.''

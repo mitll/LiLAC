@@ -1,0 +1,13 @@
+Q.  Why does salt clump in humid weather, and why does condensation sometimes form on the top of the salt shaker? It doesn't affect the pepper.
+
+A.  Unlike pepper, table salt is hygroscopic, meaning that because of the net positive charge of its chemical components, or ions, it can attract atmospheric water, which has a net negative charge. Traces of salt atop the shaker may attract visible water.
+
+In solution in water, salt or sodium chloride, dissociates into its chemical elements as sodium ions are attracted to the negative end (oxygen) of water molecules, and chloride ions are attracted to the positive end (hydrogen).
+
+A common impurity of table salt, another salt called magnesium chloride (which gives sea salt its slightly bitter taste), is even more hygroscopic and can attract so much water that it becomes liquid.
+
+Manufacturers commonly add calcium carbonate to table salt to keep it from liquefying. Another common additive, potassium iodide, does not affect the water-attracting properties of table salt but is added to prevent an iodine-deficiency disease, goiter, that causes enlargement of the thyroid gland and can cause mental retardation.
+
+C. CLAIBORNE RAY
+
+Q & A  Correction:  September 16, 2003, Tuesday  The Q & A column in Science Times on Sept. 2 about the forming of clumps in table salt misstated the cause, the electrical state of salt and water and the behavior of salt in solution. Clumping occurs because atmospheric water molecules randomly bump into salt crystals and stick to the ions on their surface; the salt does not attract atmospheric water because of an electric charge. Both table salt (sodium chloride) and water are electrically neutral, not negatively or positively charged. In water, sodium chloride dissociates into sodium ions and chloride ions, which attach to the negative and positive ends of water molecules; it does not dissociate into elemental sodium and chloride.

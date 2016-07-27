@@ -1,0 +1,43 @@
+ARE there really two Americas, the ''red'' conservative heartland and the ''blue'' liberal coasts? Extrapolating from the 2000 election results, political commentators like to think so. The electoral map has morphed into a mental map, a shorthand for different regional cultures.
+
+But one of the biggest differences between red and blue America may have less to do with cultural attitudes and more to do with family budgets. Buying a house is a lot easier in ''red America,'' for reasons that reflect politics as much as economics.
+
+In most of the country, housing is not especially expensive. The median house value is $120,000, according to the 2000 census, and 63 percent of single-family detached homes are valued at less than $150,000.
+
+''The norm is a world in which people are living in houses that are between 1,500 and 2,000 square feet, and they are paying around $120,000 for them, which is darn close to construction costs,'' said Edward L. Glaeser, a Harvard economist. ''The growing edge cities of America are a world in which land is pretty close to free, and people just build like mad -- economy housing at 60 bucks a square foot. That's the red America world.''
+
+Construction costs do not vary that much nationwide. Even in New York City, new construction runs only about $110 a square foot in a typical apartment building of 8 to 24 stories. That would imply a price of $165,000 for a new 1,500-square-foot apartment, something New Yorkers can only dream of.
+
+So why is housing affordable in most places and so expensive in others? Professor Glaeser and Joseph E. Gyourko at the Wharton School of the University of Pennsylvania examined this question in a new working paper for the National Bureau of Economic Research. (The paper can be downloaded at post.economics.harvard.edu/hier/2002papers/HIER1948.pdf.)
+
+The answer obviously has something to do with land prices. One possibility is that land is expensive simply because people really want to live in places like California and New York City. Since the amount of land is fixed, if demand is high, prices will rise.
+
+In test after test, however, the two economists found that demand alone did not explain the difference in prices. For starters, many fast-growing areas did not show skyrocketing house prices.
+
+''There are a lot of high-growth places in North Carolina, Florida, Texas, etc.,'' Professor Gyourko said. Those places offer amenities like good weather and lots of jobs, he said, but ''they don't have high house or land prices.''
+
+In their paper, the economists compared two ways of looking at the price of land. Suppose you want to calculate the value of a quarter-acre. One way is to take the difference in price between a house on a quarter-acre lot and the same house on a half-acre lot. A second way is to take the price of a house on a quarter-acre and subtract the construction cost of the building, leaving just the value of the land.
+
+In an unrestricted land market, those two prices should be about the same, since each represents the value of a quarter-acre of land. When the economists did the two land-price calculations using statistical controls and a large set of housing data, however, they found very different results in places where housing is particularly expensive.
+
+In Los Angeles, for instance, going from a quarter-acre to a half-acre lot for the same house costs about $2.60 a square foot, or roughly $28,000. But a quarter-acre lot with a house on it, minus the cost of the house, comes to almost 12 times that -- $30.44 a square foot, or about $331,000.
+
+The difference represents the value of the right to build. Going from a quarter-acre lot to a half-acre lot in Los Angeles does not give you the right to build a second house.
+
+The difference between the land prices is the implicit cost of all the local land-use controls, from zoning to the time it takes to get a permit. Some regulations simply raise the cost of building by slowing down the process. Others limit density, making it illegal to subdivide expensive land.
+
+''If I look around me in Cambridge,'' Professor Glaeser explained, ''there are a large number of $3 million houses on one-half of an acre. Cambridge is also filled with $1 million town houses on a 20th of an acre. If you're an enterprising developer, if you're not stymied by zoning regulations, you tear down the $3 million house, you use the half an acre, and you put up 10 town houses.''
+
+Presto: You've made $7 million, minus construction costs, and Cambridge has added nine units to meet the rising demand for housing. If land could be subdivided, that sort of process would happen whenever land prices became high.
+
+But it cannot happen in Cambridge, or most other places in ''blue America,'' because of land-use regulations. The result is soaring prices.
+
+That's fine, of course, with people who already own their homes. ''The overwhelming political story is that the majority of homeowners have absolutely no interest in there being affordable housing,'' Professor Glaeser noted. ''The overwhelming reason that we have the web of zoning controls that we have is that local homeowners are powerful over their local areas, and they want to make their housing as expensive as possible.''
+
+In undeveloped areas, the political dynamic is different. ''There's some farmer named Bob who's very eager to have his land subdivided, and he's the voter,'' Professor Glaeser said.
+
+On reflection, however, his co-author suggested that perhaps there is more to it than voters acting in their economic self-interest. Places like Charlotte, N.C., and Las Vegas seem able to grow and grow without ever setting off land-use protectionism.
+
+''Outside of the coastal areas of California and the Amtrak Northeast Corridor, you don't see this phenomenon,'' Professor Gyourko said. ''It may be that the civic culture is really different in those areas.'' Maybe there really are two Americas. ''One allows development, and the other puts a lot of restrictions on it.''
+
+Economic Scene Virginia Postrel is the author of ''The Future and Its Enemies'' and is writing a book on the increasing importance of aesthetics in the economy and society. E-mail: vpostrel@dynamist.com.

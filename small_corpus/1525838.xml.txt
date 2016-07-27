@@ -1,0 +1,41 @@
+THE fall television season is upon us. As viewers check out the new shows, producers, writers and actors anxiously await their reactions. What do the critics say? Do ordinary viewers agree? Which programs will survive the season, and which will die after only a few episodes? Are there any hits?
+
+What's the buzz?
+
+Hollywood lives and dies by buzz -- for good reason. Buzz, or word of mouth, affects the sales of all kinds of products, but it seems especially important for what economists call ''experience goods.'' These are products that consumers cannot evaluate just by looking at specifications. For experience goods, the nuances make all the difference.
+
+''You don't know until you go to a movie, until you read a book, until you watch the show, whether you really like it,'' explains David B. Godes, a marketing professor at Harvard Business School.
+
+Word of mouth, including reviews, allows potential buyers to learn from other people's experiences. It isn't perfect, since different people react differently to the same product. But word of mouth ''allows you to get some information about the underlying value without actually buying the movie ticket or buying the book or, what is more costly, reading the book,'' Professor Godes says.
+
+Marketing executives worry much more about word of mouth today than they did a couple of decades ago. But even companies that consciously do ''buzz marketing'' do not necessarily know how buzz works. Word of mouth is hard to track or measure. After all, most conversations are private and ephemeral. Nobody keeps a record.
+
+Unless, that is, the ''conversation'' takes place in an Internet forum. To see how word of mouth might affect new TV shows, Professor Godes and Dina Mayzlin, a marketing professor at the Yale School of Management, tapped this recorded form of conversation. Using online archives, they tracked postings in Usenet discussion groups at the beginning of the 1999-2000 TV season. (The paper, now under review at the journal Marketing Science, is available at www.som.yale.edu/faculty/dm324/papers.asp.)
+
+Forty-four programs made their debut on the six major broadcast networks that year, with only 14 surviving into a second season. Although these new shows had not yet spawned their own Usenet forums, 169 different online groups included messages about them.
+
+Looking at the relation between this online word of mouth and the programs' ratings, the scholars got two significant results.
+
+First, they discovered that online conversations did help predict which shows would succeed -- a somewhat surprising result in itself. Usenet participants are not necessarily typical TV viewers.
+
+The Usenet discussions may have directly influenced new shows' reputations or, perhaps more likely, the online comments may have reflected offline conversations. (Negative comments were relatively rare; three-quarters of the postings in a subsample were either positive or mixed.) In either case, this result suggests that marketers can tap Internet forums to see how their products might fare.
+
+Second, the study found that how much buzz a show gets does not predict much about how it will do. Who's talking matters more than how much they talk.
+
+This result runs contrary to common marketing practice. Most buzz trackers, from marketing scholars to public relations firms to the Yahoo Buzz Index, simply measure how much people talk about something. More word of mouth, they assume, will spread the news faster than less.
+
+That sounds logical. But it turns out that volume by itself did not predict future sales -- or, in this case, future ratings -- all that well. Volume mostly reflected past ratings.
+
+Another factor did, however, predict whether a show's audience would build over time: dispersion, or ''entropy.'' This technical measure essentially picks up how widespread the discussion is. Are comments concentrated in a few specialized groups, or does the show interest people in many different groups? Word of mouth spreads more quickly when it begins in different places or among people with different interests.
+
+''It's not enough to say that we got 10 mentions for our product or 10 people are talking about my research,'' Professor Godes says. ''To understand the impact that word of mouth is going to have, you have to understand how different those 10 people are.''
+
+To take an academic example, he says: ''Ten people sitting at Harvard talking about my research all talk to each other. I'd rather have one person at Harvard, one person at M.I.T. and one person at U.C.L.A. talking about my research. That's really how the word will spread.''
+
+In subsequent research, he and Professor Mayzlin are working with a company to compare results from two types of buzz marketing: a campaign concentrated on opinion leaders selected by marketing executives and a campaign devised by the two professors to emphasize dispersion. If the traditional campaign aims at the 100 most influential people over all, for example, the dispersion campaign takes the top 10 from 10 distinct clusters. (This research is too preliminary to have results.)
+
+As for TV shows, word of mouth matters mostly at the beginning of the season. After the first five or six episodes, the audience is established, and the amount and dispersal of chatter simply reflect the ratings.
+
+So for network executives, Professor Godes says, the advice is to ''measure word of mouth, measure the dispersion of word of mouth, and do it soon.''
+
+Economic Scene Virginia Postrel is the author of ''The Substance of Style: How the Rise of Aesthetic Value Is Remaking Commerce, Culture and Consciousness,'' published by HarperCollins. E-mail: vpostrel@dynamist.com.

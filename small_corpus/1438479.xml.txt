@@ -1,0 +1,49 @@
+THIS economic downturn seems weird. Business spending has dropped sharply, but consumers keep buying. That baffles a lot of analysts.
+
+Why don't consumers stop spending? Don't they know the economy is in bad shape? Is America just a nation of free-spending fools? A recent study of an entirely different subject -- income inequality -- suggests a rational explanation.
+
+Economists generally agree that since the late 1970's, income inequality has increased in the United States. Top earners account for a larger percentage of total income, and college-educated workers command an increasingly large premium.
+
+Equally striking, there is a broader spread of incomes among people of the same education, occupation, age or sex.
+
+But the usual measures look at current income: what everyone is making at a given moment in time, not what people can expect to make (and spend) over their lifetimes.
+
+''Looking at the distribution of current income is probably not a good enough measure of what you're really interested in, which is the distribution of well-being, the distribution of resources among Americans,'' says Fabrizio Perri, an economist at the Stern School of Business at New York University.
+
+There are really two different components of income inequality: permanent differences and temporary fluctuations. People tend to base their spending on what they expect their long-term prospects to be.
+
+Poor graduate students spend more than equally poor waitresses, because they can expect higher incomes later. Conversely, professional athletes have to save some of their big bucks to finance a comfortable life after sports.
+
+To see how well-being is distributed, consumption provides a better long-run picture than income. In a paper titled ''Does Income Inequality Lead to Consumption Inequality?'' Professor Perri and Dirk Krueger, an economist at Stanford, look at the distribution of consumption from 1972 to 1998. The article, now a National Bureau of Economic Research working paper, can be downloaded at http://pages.stern.nyu.edu/fperri/research.htm.
+
+If the rich were becoming richer in the 1980's and 90's, were they also buying relatively more stuff? And if the poor were becoming poorer, were they buying less?
+
+''We wanted to see whether this rise in income inequality had in fact given rise to an increase in consumption inequality,'' Professor Krueger said. ''We were fairly surprised that it hadn't.''
+
+The economists expected consumption to fluctuate less than income, since people can save in good times and borrow in bad times. But the results were far more marked than they anticipated: Even as the distribution of income changed significantly, the distribution of consumption barely budged.
+
+A common measure of how spread out the income distribution is (the standard deviation of the log of after-tax labor income) increased 20 percent, while the same measure for consumption rose only 2 percent.
+
+To take a single comparison, the poorest 20 percent of Americans made about 6 percent of all income in 1972-73 but only 4 percent in 1997-98. That substantial drop did not show up in their spending, however. It stayed flat, at about 9.2 percent of total consumption.
+
+Or consider the ratio between the top and bottom. In 1972-73, the top 10 percent of earners made about five times as much as the bottom 10 percent. In 1997-98, they made more than nine times as much -- a sharp increase that, again, barely shows up in spending. The top 10 percent of households spent about three times as much as the bottom 10 percent in 1972-73, a ratio that inched up to 3.35 in 1997-98.
+
+These results are particularly striking because the income figures include only wages and government benefits. Spending, by contrast, can come from all sources of money, including the stock market returns and other investment income enjoyed mostly by the wealthiest Americans. The high investment returns of the 1990's do not seem to have notably widened the spending gap between rich and poor.
+
+It is hard to see the effects of increasing income inequality in how people actually live. In a theoretical model that fits the trends of the last two decades, the economists propose an explanation: Permanent income differences have increased just a little, while short-term fluctuations have increased a lot. What looks like increasing income inequality turns out to be mostly increasing income instability.
+
+As incomes have become more unstable, consumers have benefited from more efficient ways to borrow and save. Better credit markets have kept consumption from becoming as lopsided as current income.
+
+''The permanent inequality tends to push up consumption inequality,'' Professor Perri explained, ''but the income instability would tend to push it down.''
+
+''People react by saving more and by borrowing more,'' he said, ''so there's this development of credit markets.''
+
+In particular, it is much easier for consumers to borrow with credit cards or home equity loans than it was 20 years ago. Middle-class earners also have access to many more ways to save and invest.
+
+When credit markets are well developed, people having a good year can save, providing money to be lent to people having a bad year. And the penalty for default -- being turned down for future credit -- is more serious, deterring careless borrowing.
+
+How consumers react to economic news depends largely on whether they think it portends a permanent change in their incomes. That may explain, then, why consumers have kept spending despite the sluggish economy. They may be making less money, but they do not expect that situation to last forever -- and they have their credit cards to tide them over.
+
+Economic Scene Virginia Postrel is the author of ''The Future and Its Enemies'' and is writing a book on the increasing importance of aesthetics in the economy and society. E-mail: vpostrel@dynamist.com
+
+Correction:  December 6, 2002, Friday  The Economic Scene column in Business Day on Nov. 7, about trends in consumer spending, referred incorrectly to ratios between top and bottom income groups from 1972-73 to 1997-98. The ratios, which rose sharply for income but only slightly for spending, measured the difference between people at the 90th percentile of income and those at the 10th percentile, not all those in the top 10 percent and the bottom 10 percent.

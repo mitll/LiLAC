@@ -1,0 +1,49 @@
+SEARS is selling its credit card division, almost certainly to a specialized financial business. To let customers charge their purchases, retailers no longer have to run their own credit operations. Dell Computer doesn't make its own hardware. It assembles circuit boards and disk drives from specialized manufacturers.
+
+From payroll management to movie special effects, vertical integration is out. Specialization is in.
+
+Does your company need a new product? You can hire an industrial design firm like IDEO to create it. Want to set up shop online? Buy the services and software from Amazon. Are you selling electronic systems? Get Solectron and Flextronic to assemble them.
+
+''Wal-Mart is less integrated vertically than Sears at the turn of the 20th century,'' the economist Richard N. Langlois of the University of Connecticut wrote in an e-mail message, noting that Sears once ''even manufactured some of its own products in its own factories.'' Amazon is less integrated still, and eBay even less so.
+
+Meanwhile, vertical mergers increasingly look like bad bets. The AOL Time Warner vision of combining editorial content and Internet services under the same corporate roof has turned out to be an expensive folly.
+
+Other media mergers based on the same theory, like Disney's acquisition of ABC, haven't done much better. Content and delivery don't need common owners.
+
+It's more flexible and efficient to specialize in one activity and then buy from or sell to a number of outside companies.
+
+Since the 1980's, American corporations have been disintegrating -- not falling apart, but becoming more specialized. Revenues or production volumes may be as large as ever, but even big companies tend to combine fewer stages of production under the same corporate ownership.
+
+This trend presents a puzzle. As the business historian Alfred Chandler famously chronicled, the modern corporation succeeded in large measure by bringing many different stages of production under central ownership and control.
+
+In Mr. Chandler's account, ''the visible hand of managerial coordination had replaced the invisible hand of the market,'' Professor Langlois explained in an article in the journal Industrial and Corporate Change.
+
+Why did vertical integration seem like the way to efficiency, predictability and riches? Was Mr. Chandler wrong?
+
+In his article, titled ''The Vanishing Hand,'' Professor Langlois argues that Mr. Chandler's managerial revolution ''was an organizational solution appropriate to its time and place.'' The Chandlerian corporation did not supplant specialization forever. It was essentially a stopgap measure, a way of reducing uncertainty in an underdeveloped economic environment.
+
+In high-volume operations like those that developed in the late 19th century, every part of the system has to operate reliably.
+
+''You want to make sure the ore gets to the smelting plant, that the metal gets to the steel mill, and the steel gets to the automobile factory -- that all of this happens fast, and it happens at the right time,'' Professor Langlois explained in an interview.
+
+''To do this, you've really got to make sure there are no uncertainties in these various parts of the system. In the beginning, the easiest way, the cheapest way to do that was to use management as a buffer -- to put people in charge and have these things under common control.''
+
+Markets simply weren't thick enough to meet the new corporations' needs. In some cases, stages of production were entirely missing. In others, they weren't developed and competitive enough to be reliable.
+
+''What happened in the Chandlerian era,'' Professor Langlois said, ''was that the need for buffering grew fast, but marketing-supporting institutions weren't able to cope with that, so you had to come up with a kind of second best, which was the large, vertically integrated firm.''
+
+Over time, however, new companies and specialized institutions arose to provide once-missing services. Meanwhile, markets grew through trade and increasing populations. This growth allowed more and more specialized businesses to find niches -- the process Adam Smith first identified in ''The Wealth of Nations.''
+
+To operate a meatpacking business in the 19th century, Gustavus Swift ''had to own the company that made the railroad cars,'' Professor Langlois said. ''He had to own the ice company. He had to own the distribution, the refrigerated warehouses.'' In today's developed markets, by contrast, Michael Dell could devise a similarly efficient logistics system using existing contractors.
+
+Similarly, Sears customers no longer need a special Sears credit card. They can use Visa and MasterCard. If Sears wants to offer its own branded card, it can contract with a financial services company to handle those operations.
+
+Today's companies combine ''specialization of function'' with ''generalization of capabilities.'' Shippers are good at shipping things in general; credit card companies are good at managing credit risks, regardless of where customers buy; electronics assemblers are good at all sorts of assembly. Businesses specialize more in skills than in end products.
+
+This form of specialization provides a more reliable buffer against uncertainty. ''Since a general specialist is not tied to a particular product or brand, but takes in work from many purveyors of products and brands,'' Professor Langlois wrote, ''it can diversify its portfolio more effectively. This smooths demand and facilitates high-throughput production.''
+
+He expects the trend toward specialization and vertical disintegration to continue as long as ''markets continue to grow and globalization doesn't get sidetracked.''
+
+But there's one caveat to that prediction: ''If there were some kind of major systemic innovation that nobody's anticipated, then there might be a lot more vertical integration as people try to cope.''
+
+Economic Scene Virginia Postrel (vpostrel@dynamist.com) is the author of ''The Substance of Style: How the Rise of Aesthetic Value Is Remaking Commerce, Culture and Consciousness,'' to be published in September by HarperCollins.
