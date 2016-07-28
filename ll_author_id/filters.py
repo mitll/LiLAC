@@ -87,6 +87,36 @@ def market_count_filter(counts_dict):
             del counts_dict[ky]
     return counts_dict
 
+def social_media_text_filter(msg, debug=0):
+    """
+    This funciton filters out spurious lines, spaces, emojis, and HTML tags
+
+    :param msg: Text to filter
+    :param debug: Set to 1 to see messages
+    """
+    if debug > 0:
+        print u"\nmsg: {}".format(msg)
+    # Spurious return, newlines
+    msg = msg.replace(u'\\r', u' ').replace(u'\\n', u' ')
+    # Spurious HTML tags
+    msg = re.sub(u'<[a-z].*?>', u' ', msg)
+    msg = re.sub(u'</[a-z].*?>', u' ', msg)
+    msg = re.sub(u'<[a-z].*?/>', u' ', msg)
+    # Remove emojis
+    emoji_pattern = re.compile(u'('
+        u'\ud83c[\udf00-\udfff]|'
+        u'\ud83d[\udc00-\ude4f\ude80-\udeff]|'
+        u'[\u2600-\u26FF\u2700-\u27BF])+',
+        re.UNICODE)
+    msg = emoji_pattern.sub(r' ', msg)
+    # Extra spaces
+    msg = re.sub(u'\s+', u' ', msg)
+    # xact['msg_norm'] = msg
+    if (debug > 0):
+        print u"normalized msg: {}".format(msg)
+    return msg
+
+
 def arabic_social_media_text_filter(txt, debug=0):
     """
     This filter is for filtering Arabic text from social media.
@@ -95,72 +125,11 @@ def arabic_social_media_text_filter(txt, debug=0):
     :param debug: Any value greater than 0 prints messages about normalized vs original text.
     :param return:
     """
-    # xact = {u'msg': txt}
-    # msg = xact[u'msg']
-    msg = txt
-    if debug > 0:
-        print u"\nmsg: {}".format(msg)
-    # Spurious return, newlines
-    msg = msg.replace(u'\\r', u' ').replace(u'\\n', u' ')
-    # Spurious HTML tags
-    msg = re.sub(u'<[a-z].*?>', u' ', msg)
-    msg = re.sub(u'</[a-z].*?>', u' ', msg)
-    msg = re.sub(u'<[a-z].*?/>', u' ', msg)
-    # Remove emojis
-    emoji_pattern = re.compile(u'('
-        u'\ud83c[\udf00-\udfff]|'
-        u'\ud83d[\udc00-\ude4f\ude80-\udeff]|'
-        u'[\u2600-\u26FF\u2700-\u27BF])+',
-        re.UNICODE)
-    msg = emoji_pattern.sub(r' ', msg)
+    txt = social_media_text_filter(txt, debug=debug)
     # Remove diacritics
     st = ISRIStemmer()
-    msg = st.norm(msg)
-    # Extra spaces
-    msg = re.sub(u'\s+', u' ', msg)
-    # xact['msg_norm'] = msg
-    if (debug > 0):
-        print u"normalized msg: {}".format(msg)
-    return msg
-
-def russian_filter(txt, debug=0):
-    """
-    This filter is for filtering Russian text.
-
-    :param txt: utf-8 text, unicode
-    :param debug: Any value greater than 0 prints messages about normalized vs original text.
-    :param return:
-    """
-    # xact = {u'msg': txt}
-    # msg = xact[u'msg']
-    msg = txt
-    if debug > 0:
-        print u"\nmsg: {}".format(msg)
-    # Spurious return, newlines
-    msg = msg.replace(u'\\r', u' ').replace(u'\\n', u' ')
-    # Spurious HTML tags
-    msg = re.sub(u'<[a-z].*?>', u' ', msg)
-    msg = re.sub(u'</[a-z].*?>', u' ', msg)
-    msg = re.sub(u'<[a-z].*?/>', u' ', msg)
-    # Remove emojis
-    emoji_pattern = re.compile(u'('
-        u'\ud83c[\udf00-\udfff]|'
-        u'\ud83d[\udc00-\ude4f\ude80-\udeff]|'
-        u'[\u2600-\u26FF\u2700-\u27BF])+',
-        re.UNICODE)
-    msg = emoji_pattern.sub(r' ', msg)
-
-    # # Q: Should we do Russian stemming?
-    # # Remove diacritics
-    # st = ISRIStemmer()
-    # msg = st.norm(msg)
-
-    # Extra spaces
-    msg = re.sub(u'\s+', u' ', msg)
-    # xact['msg_norm'] = msg
-    if (debug > 0):
-        print u"normalized msg: {}".format(msg)
-    return msg
+    txt = st.norm(txt)
+    return txt
 
 def russian_count_filter(counts_dict):
     """

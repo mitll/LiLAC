@@ -208,14 +208,12 @@ def ngm_to_vec(in_fn, dict_fn, out_fn, class_lbl, tag_fn, config, min_count=0, m
                     # Next iteration
                     write_to_tag_file = True
                     if doc_tags:
-			#Esther added 'u'
-                        tag_file.write(u"{}\n".format(doc))
+                        tag_file.write(u'{}\n'.format(doc))
                         write_to_tag_file = False
                     num_vecs += 1
 
                 if write_to_tag_file:
-		    #Esther added 'u'
-                    tag_file.write(u"{}\n".format(tag))
+                    tag_file.write(u'{}\n'.format(tag))
                     num_authors += 1
 
     # Reopen file and modify number of vecs
